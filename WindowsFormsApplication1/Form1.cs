@@ -16,6 +16,6 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
-        putin
+        putin molodec
     }
 }
