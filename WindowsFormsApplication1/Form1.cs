@@ -17,5 +17,6 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
         putin molodec politic lider
+            рррррррггггг
     }
 }
